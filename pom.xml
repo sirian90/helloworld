@@ -6,7 +6,7 @@
 
     <groupId>com.sirian</groupId>
     <artifactId>helloworld</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0-test-SNAPSHOT</version>
 
     
 </project>
